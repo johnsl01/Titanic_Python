@@ -14,3 +14,4 @@ this iPython notebook is my ongoing attempt to reproduce and extend this to pyth
 'to timidly go where many have gone before'
 
 1 / May / 2019
+.
