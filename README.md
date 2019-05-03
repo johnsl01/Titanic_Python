@@ -20,10 +20,10 @@ values, for example, many passengers ages are missing.
 
 Kaggle calls these lists the train and test lists - but I have renamed them the known 
 and unknown lists.  The reason is simple - in building models to predict data we need to 
-be abel to test the quality of our model - and to do this we generally run it against 
+be able to test the quality of our model - and to do this we generally run it against 
 known results to see how well it does.  We need to be careful that we don't build a model
-which is good because it includes the answer - so we will divide the known results into  
-train and test portions using the train to build the model and teh test to measure it.
+which is 'good' because it includes the answer - so we will divide the known results into  
+train and test portions using the train to build the model and the test to measure it.
 
 Then when we have a mechanism to build a model that works well using this process we
 will apply that mechanism to all the knowns and get its prediction for the actual unknowns.
@@ -36,7 +36,7 @@ We are taking it as a given that the knowns and unknowns are representative sele
 of the passengers. Or at the least that they are not deliberately skewed. 
 
 (Note that all the 100% results on Kaggle are fake - produced by looking up the actual
-survivor date which is available online).
+survivor data which is available online).
 
 This is real world data and there are random and unpredictable events leading to 
 individual outcomes - different mechanims will produce outputs between around 80%
@@ -48,6 +48,5 @@ this iPython notebook is my ongoing attempt to reproduce and extend this to pyth
 
 'to timidly go where many have gone before'
 
-1 / May / 2019
+3 / May / 2019
 
-.
