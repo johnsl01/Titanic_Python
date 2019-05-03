@@ -40,8 +40,8 @@ survivor data which is available online).
 
 This is real world data and there are random and unpredictable events leading to 
 individual outcomes - different mechanims will produce outputs between around 80%
-and 90% correct answers.  But this is only one measure of mechanism / model quality
-- albeit an important one.
+and 90% correct answers.  But this is only one measure of mechanism / model 
+quality - albeit an important one.
 
 I originally used this problem as part of a ML & AI course which was based on R.  So
 this iPython notebook is my ongoing attempt to reproduce and extend this to python.
