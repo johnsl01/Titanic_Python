@@ -1,5 +1,7 @@
 # Titanic_Python
 
+(not much happenning here - others have done it better so this may wither and die) 
+
 iPython notebook to explore the titanic survivors problem.
 
 The ***Titanic*** survivors problem is a relatively simple one to understand but it 
